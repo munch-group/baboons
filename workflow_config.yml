@@ -1,0 +1,60 @@
+rfmix_analyzes:
+  tanzania_focus:
+    - Ursinus, Zambia
+    - Kindae, Zambia
+    - Hamadryas, Ethiopia
+    - Papio, Senegal
+  eth_olive_focus:
+    - Hamadryas, Ethiopia
+    - Papio, Senegal
+    - Cynocephalus, Central Tanzania
+    - Anubis, Tanzania
+sample_meta_data: /home/kmt/baboondiversity/people/eriks/second_analysis_baboons/data/Papio_metadata_with_clustering_sci.txt
+vcf_files:
+  chr1: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr1/chr1.phased.rehead.vcf.gz
+  chr2: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr2/chr2.phased.rehead.vcf.gz
+  chr3: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr3/chr3.phased.rehead.vcf.gz
+  chr4: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr4/chr4.phased.rehead.vcf.gz
+  chr5: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr5/chr5.phased.rehead.vcf.gz
+  chr6: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr6/chr6.phased.rehead.vcf.gz
+  chr7: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr7/chr7.phased.rehead.vcf.gz
+  chr8: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr8/chr8.phased.rehead.vcf.gz
+  chr9: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr9/chr9.phased.rehead.vcf.gz
+  chr10: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr10/chr10.phased.rehead.vcf.gz
+  chr11: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr11/chr11.phased.rehead.vcf.gz
+  chr12: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr12/chr12.phased.rehead.vcf.gz
+  chr13: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr13/chr13.phased.rehead.vcf.gz
+  chr14: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr14/chr14.phased.rehead.vcf.gz
+  chr15: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr15/chr15.phased.rehead.vcf.gz
+  chr16: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr16/chr16.phased.rehead.vcf.gz
+  chr17: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr17/chr17.phased.rehead.vcf.gz
+  chr18: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr18/chr18.phased.rehead.vcf.gz
+  chr19: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr19/chr19.phased.rehead.vcf.gz
+  chr20: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chr20/chr20.phased.rehead.vcf.gz
+  chrX: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chrX/chrX.phased.rehead.vcf.gz
+  chrX_all: /home/kmt/baboondiversity/data/PG_panu3_phased_chromosomes_4_7_2021/chrX_with_males/chrX_diploid_all_nomiss.vcf.gz
+rec_maps:
+  chr1: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr1.txt
+  chr1: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr1.txt
+  chr2: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr2.txt
+  chr3: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr3.txt
+  chr4: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr4.txt
+  chr5: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr5.txt
+  chr6: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr6.txt
+  chr7: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr7.txt
+  chr8: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr8.txt
+  chr9: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr9.txt
+  chr10: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr10.txt
+  chr11: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr11.txt
+  chr12: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr12.txt
+  chr13: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr13.txt
+  chr14: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr14.txt
+  chr15: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr15.txt
+  chr16: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr16.txt
+  chr17: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr17.txt
+  chr18: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr18.txt
+  chr19: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr19.txt
+  chr20: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chr20.txt
+  chrX: /home/kmt/baboondiversity/data/PG_panu3_recombination_map/mikumi_pyrho_genetic_map_chrX.txt
+
+
