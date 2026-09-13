@@ -1,0 +1,13 @@
+[workspace]
+authors = ["kaspermunch <kaspermunch@birc.au.dk>"]
+channels = ["conda-forge", "gwforg", "bioconda","munch-group"]
+name = "baboons"
+platforms = ["linux-64"]
+version = "0.1.0"
+preview = ["pixi-build"]
+
+[tasks]
+
+# [dependencies]
+# relate = { path = "submodules/relate" }
+# rfmix = { path = "submodules/rfmix" }

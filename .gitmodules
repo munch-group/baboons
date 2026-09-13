@@ -1,6 +1,6 @@
 [submodule "relate"]
-	path = relate
+	path = submodules/relate
 	url = git@github.com:kaspermunch/relate.git
 [submodule "rfmix"]
-	path = rfmix
+	path = submodules/rfmix
 	url = git@github.com:munch-group/rfmix.git
